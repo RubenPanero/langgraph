@@ -21,8 +21,8 @@
     "test:all": "yarn test && yarn test:int && yarn lint:langgraph"
   },
   "dependencies": {
-    "@langchain/core": "^1.3.1",
-    "@langchain/langgraph": "^1.5.3"
+    "@langchain/core": "^1.3.5",
+    "@langchain/langgraph": "^1.7.1"
   },
   "resolutions": {
     "@langchain/langgraph-checkpoint": "1.0.4",
@@ -37,7 +37,7 @@
     "@typescript-eslint/eslint-plugin": "^8.72.1",
     "@typescript-eslint/parser": "^8.72.1",
     "dotenv": "^18.0.9",
-    "eslint": "^10.13.0",
+    "eslint": "^10.14.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-no-instanceof": "^1.0.1",
